@@ -16,18 +16,18 @@ CE2 06 FEB 14
 
 #Image
 Here is the image of the testbench waveform (behavioral)
-![alt text](https://github.com/Austinbolinger/ECE281_CE2/blob/master/testbenchtest.JPG "Logo Title Text 1") 
+![alt text]( "Logo Title Text 1") 
 
 Here is the image of the testbench waveform (structural)
-![alt text]( "Logo Title Text 1") 
+![alt text](https://github.com/Austinbolinger/ECE281_CE2/blob/master/testbenchtest.JPG "Logo Title Text 1") 
 
 
 #Analysis
 The Truth Table created was created by using the given schematic.
 
-The testbench was coded to test the logic gate designs from the truth table.
+The testbenches were coded to test the logic gate designs from the truth table.
 
-The testbench output matched the Truth Table line by line. Each output matched my truth table.
+The testbenches output matched the Truth Table line by line. Each output matched my truth table.
 
 Encoders detect which bit combination is being shown and translate it to a unique output.
 The EN input is an enable input. As you may notice, the output is always zero unless the enable input is ENABLED. An example of a decoder is the keyboard. When a key is pressed the unique 8 bit code is sent to the computer which decodes the unique output and an unique letter is represented.
