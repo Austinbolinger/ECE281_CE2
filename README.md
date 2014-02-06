@@ -7,16 +7,16 @@ CE2 06 FEB 14
 
 
 #Schematic
-![alt text]( "Logo Title Text 1") 
+![alt text](https://github.com/Austinbolinger/ECE281_CE2/blob/master/schematic.JPG "Logo Title Text 1") 
 
 
 #Truth Table 
-![alt text]( "Logo Title Text 1")
+![alt text](https://github.com/Austinbolinger/ECE281_CE2/blob/master/truthtable.JPG "Logo Title Text 1")
  
 
 #Image
 Here is the image of the testbench waveform (behavioral)
-![alt text]( "Logo Title Text 1") 
+![alt text](https://github.com/Austinbolinger/ECE281_CE2/blob/master/testbenchtest.JPG "Logo Title Text 1") 
 
 Here is the image of the testbench waveform (structural)
 ![alt text]( "Logo Title Text 1") 
