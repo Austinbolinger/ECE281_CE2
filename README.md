@@ -7,19 +7,19 @@ CE2 06 FEB 14
 
 
 #Schematic
-![alt text](https://github.com/Austinbolinger/ECE281_CE2/blob/master/schematic.JPG "Logo Title Text 1") 
+![alt text](https://github.com/Austinbolinger/ECE281_CE2/blob/master/schematic.JPG "Schematic") 
 
 
 #Truth Table 
-![alt text](https://github.com/Austinbolinger/ECE281_CE2/blob/master/truthtable.JPG "Logo Title Text 1")
+![alt text](https://github.com/Austinbolinger/ECE281_CE2/blob/master/truthtable.JPG "Truth Table")
  
 
 #Image
 Here is the image of the testbench waveform (behavioral)
-![alt text](https://github.com/Austinbolinger/ECE281_CE2/blob/master/testbench_behavior.JPG "Logo Title Text 1") 
+![alt text](https://github.com/Austinbolinger/ECE281_CE2/blob/master/testbench_behavior.JPG "behavior") 
 
 Here is the image of the testbench waveform (structural)
-![alt text](https://github.com/Austinbolinger/ECE281_CE2/blob/master/testbenchtest.JPG "Logo Title Text 1") 
+![alt text](https://github.com/Austinbolinger/ECE281_CE2/blob/master/testbenchtest.JPG "structural") 
 
 
 #Analysis
