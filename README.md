@@ -1,7 +1,7 @@
 ECE281_CE2
 ==========
 
-decod
+decoder
 
 CE2 06 FEB 14
 
@@ -16,7 +16,7 @@ CE2 06 FEB 14
 
 #Image
 Here is the image of the testbench waveform (behavioral)
-![alt text]( "Logo Title Text 1") 
+![alt text](https://github.com/Austinbolinger/ECE281_CE2/blob/master/testbench_behavior.JPG "Logo Title Text 1") 
 
 Here is the image of the testbench waveform (structural)
 ![alt text](https://github.com/Austinbolinger/ECE281_CE2/blob/master/testbenchtest.JPG "Logo Title Text 1") 
