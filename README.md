@@ -32,4 +32,5 @@ The testbench output matched the Truth Table line by line. Each output matched m
 ####Test
 
 #####Documentation
-None
+https://wiki.engr.illinois.edu/download/attachments/86048906/07-Decoders.pdf?version=1&modificationDate=1265125251000
+this website helped explain a decoder to me
