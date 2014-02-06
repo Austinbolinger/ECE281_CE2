@@ -34,5 +34,7 @@ The EN input is an enable input. As you may notice, the output is always zero un
 
 
 #####Documentation
+C3C Pluger explained what was expected by the structural and behavioral requirements. I did not understand the difference between structural and behavioral until he explained it.
+
 https://wiki.engr.illinois.edu/download/attachments/86048906/07-Decoders.pdf?version=1&modificationDate=1265125251000
 this website helped explain a decoder to me
