@@ -25,14 +25,19 @@ Here is the image of the testbench waveform (structural)
 #Links
 Decoder_Structural
 https://github.com/Austinbolinger/ECE281_CE2/blob/master/Decoder_Structural.vhd
+
 inverter
 https://github.com/Austinbolinger/ECE281_CE2/blob/master/inverter.vhd
+
 and3
 https://github.com/Austinbolinger/ECE281_CE2/blob/master/myand3.vhd
+
 testbench_behavior
 https://github.com/Austinbolinger/ECE281_CE2/blob/master/testbench_behavior.vhd
+
 testbench_structural
 https://github.com/Austinbolinger/ECE281_CE2/blob/master/CE2_testbench.vhd
+
 
 #Analysis
 The Truth Table created was created by using the given schematic.
