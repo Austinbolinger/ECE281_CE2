@@ -1,18 +1,18 @@
 ----------------------------------------------------------------------------------
--- Company: 
--- Engineer: 
+-- Company: USAFA
+-- Engineer: AUSTIN BOLINGER
 -- 
 -- Create Date:    16:52:10 02/03/2014 
--- Design Name: 
+-- Design Name: decoder at the structural implementation
 -- Module Name:    Decoder_Structural - Structural 
--- Project Name: 
--- Target Devices: 
+-- Project Name: CE2
+-- Target Devices: decoder
 -- Tool versions: 
--- Description: 
+-- Description: translates bit input to unique output
 --
 -- Dependencies: 
 --
--- Revision: 
+-- Revision: 1
 -- Revision 0.01 - File Created
 -- Additional Comments: 
 --

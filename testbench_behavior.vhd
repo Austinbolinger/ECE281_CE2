@@ -2,21 +2,21 @@
 -- Company: USAFA
 -- Engineer: Austin Bolinger
 --
--- Create Date:   20:39:55 02/03/2014
--- Design Name:   testbench of decoder structural
--- Module Name:   C:/Users/C16Austin.Bolinger/Desktop/ECE281/CE2/CE2_testbench.vhd
+-- Create Date:   23:16:02 02/05/2014
+-- Design Name:   testbench for behavior of decoder
+-- Module Name:   C:/Users/C16Austin.Bolinger/Desktop/ECE281/CE2/testbench_behavior.vhd
 -- Project Name:  CE2
 -- Target Device:  decoder
 -- Tool versions:  
--- Description:   tests the structual adaptation of the decoder
+-- Description:   this is a test of the behavior of provided schematic
 -- 
--- VHDL Test Bench Created by ISE for module: Decoder_Structural
+-- VHDL Test Bench Created by ISE for module: Decoder_Behavior
 -- 
 -- Dependencies:
 -- 
 -- Revision: 1
 -- Revision 0.01 - File Created
--- Additional Comments:
+-- Additional Comments: 
 --
 -- Notes: 
 -- This testbench has been automatically generated using types std_logic and
@@ -32,14 +32,14 @@ USE ieee.std_logic_1164.ALL;
 -- arithmetic functions with Signed or Unsigned values
 --USE ieee.numeric_std.ALL;
  
-ENTITY CE2_testbench IS
-END CE2_testbench;
+ENTITY testbench_behavior IS
+END testbench_behavior;
  
-ARCHITECTURE behavior OF CE2_testbench IS 
+ARCHITECTURE behavior OF testbench_behavior IS 
  
     -- Component Declaration for the Unit Under Test (UUT)
  
-    COMPONENT Decoder_Structural
+    COMPONENT Decoder_Behavior
     PORT(
          I0 : IN  std_logic;
          I1 : IN  std_logic;
@@ -68,7 +68,7 @@ ARCHITECTURE behavior OF CE2_testbench IS
 BEGIN
  
 	-- Instantiate the Unit Under Test (UUT)
-   uut: Decoder_Structural PORT MAP (
+   uut: Decoder_Behavior PORT MAP (
           I0 => I0,
           I1 => I1,
           EN => EN,
@@ -82,7 +82,6 @@ BEGIN
    stim_proc: process
    begin		
       -- hold reset state for 100 ns.
-      wait for 100 ns;	
 
        -- First line of truth table
 		I0 <= '0';
@@ -130,7 +129,9 @@ BEGIN
 		I0 <= '1';
 		I1 <= '1';
 		EN <= '1';
-		wait for 100 ns;	
+		wait for 100 ns;
+
+
 
       wait;
    end process;

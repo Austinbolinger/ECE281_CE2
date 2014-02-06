@@ -1,18 +1,18 @@
 ----------------------------------------------------------------------------------
--- Company: 
--- Engineer: 
+-- Company: USAFA
+-- Engineer: AUSTIN BOLINGER
 -- 
 -- Create Date:    17:04:38 02/03/2014 
--- Design Name: 
+-- Design Name: and gate Y
 -- Module Name:    myand3 - Behavioral 
--- Project Name: 
--- Target Devices: 
+-- Project Name: CE2
+-- Target Devices: and gate
 -- Tool versions: 
--- Description: 
+-- Description: one output using an and gate
 --
 -- Dependencies: 
 --
--- Revision: 
+-- Revision: 1
 -- Revision 0.01 - File Created
 -- Additional Comments: 
 --

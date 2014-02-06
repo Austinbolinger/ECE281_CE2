@@ -1,18 +1,18 @@
 ----------------------------------------------------------------------------------
--- Company: 
--- Engineer: 
+-- Company: USAFA
+-- Engineer: AUSTIN BOLINGER
 -- 
 -- Create Date:    16:46:46 02/03/2014 
--- Design Name: 
+-- Design Name: Inverter
 -- Module Name:    inverter - Behavioral 
--- Project Name: 
--- Target Devices: 
+-- Project Name: CE2
+-- Target Devices: inverter gate
 -- Tool versions: 
--- Description: 
+-- Description: inverts signal
 --
 -- Dependencies: 
 --
--- Revision: 
+-- Revision: 1
 -- Revision 0.01 - File Created
 -- Additional Comments: 
 --
