@@ -38,3 +38,5 @@ C3C Pluger explained what was expected by the structural and behavioral requirem
 
 https://wiki.engr.illinois.edu/download/attachments/86048906/07-Decoders.pdf?version=1&modificationDate=1265125251000
 this website helped explain a decoder to me
+
+**Dr. Neebel** helped me debug by understanding an error code for undefined code in the test bench. I just forgot to code for the myand3 signals. 
