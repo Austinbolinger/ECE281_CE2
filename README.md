@@ -22,6 +22,18 @@ Here is the image of the testbench waveform (structural)
 ![alt text](https://github.com/Austinbolinger/ECE281_CE2/blob/master/testbenchtest.JPG?raw=true "structural") 
 
 
+#Links
+Decoder_Structural
+https://github.com/Austinbolinger/ECE281_CE2/blob/master/Decoder_Structural.vhd
+inverter
+https://github.com/Austinbolinger/ECE281_CE2/blob/master/inverter.vhd
+and3
+https://github.com/Austinbolinger/ECE281_CE2/blob/master/myand3.vhd
+testbench_behavior
+https://github.com/Austinbolinger/ECE281_CE2/blob/master/testbench_behavior.vhd
+testbench_structural
+https://github.com/Austinbolinger/ECE281_CE2/blob/master/CE2_testbench.vhd
+
 #Analysis
 The Truth Table created was created by using the given schematic.
 
@@ -29,7 +41,7 @@ The testbenches were coded to test the logic gate designs from the truth table.
 
 The testbenches output matched the Truth Table line by line. Each output matched my truth table.
 
-Encoders detect which bit combination is being shown and translate it to a unique output.
+Decoders detect which bit combination is being shown and translate it to a unique output.
 The EN input is an enable input. As you may notice, the output is always zero unless the enable input is ENABLED. An example of a decoder is the keyboard. When a key is pressed the unique 8 bit code is sent to the computer which decodes the unique output and an unique letter is represented.
 
 
